@@ -8,9 +8,9 @@ This Image Caption Generator project enhances an existing attention-based Encode
 - **Data Augmentation:** Utilized augmented datasets to improve model robustness against diverse image inputs.
 
 ## Contributors
-- **Shahd Elmahallawy
-- **Nermien Elassy
+- Shahd Elmahallawy
+- Nermien Elassy
 
 ## Acknowledgements
-- **This project is based on the model proposed by Muhammad Abdelhadie Al‑Malla, Assef Jafar, and Nada Ghneim, detailed in their paper on attention and object features for image captioning. The original paper can be accessed here.
-- **We utilized the Flickr30k dataset, which significantly differs from the datasets used in the original study, introducing unique challenges and insights.
+- This project is based on the model proposed by Muhammad Abdelhadie Al‑Malla, Assef Jafar, and Nada Ghneim, detailed in their paper on attention and object features for image captioning. The original paper can be accessed here.
+- We utilized the Flickr30k dataset, which significantly differs from the datasets used in the original study, introducing unique challenges and insights.
